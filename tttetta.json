@@ -1,0 +1,300 @@
+{
+    "query": [
+        {
+            "number": 2,
+            "name": "Мирон трахал Саньку Триазова",
+            "ip": "51.91.91.74",
+            "port": 7777,
+            "online": 9,
+            "maxplayers": 1000,
+            "password": false,
+            "vk": "https://vk.com/weissdrum",
+            "tg": "https://www.youtube.com/watch?v=k7HWrgLP8zI",
+            "inst": "https://instagram.com",
+            "icon": "https://arizona-recovery.react.domains/desktop/resources/icons/diamond/trilliant.png",
+            "plotPoints": [
+                {
+                    "online": 0,
+                    "time": 1677117782
+                },
+                {
+                    "online": 3,
+                    "time": 1677121442
+                },
+                {
+                    "online": 6,
+                    "time": 1677125102
+                },
+                {
+                    "online": 8,
+                    "time": 1677128762
+                },
+                {
+                    "online": 9,
+                    "time": 1677132422
+                },
+                {
+                    "online": 18,
+                    "time": 1677136082
+                },
+                {
+                    "online": 23,
+                    "time": 1677139742
+                },
+                {
+                    "online": 22,
+                    "time": 1677143402
+                },
+                {
+                    "online": 31,
+                    "time": 1677147061
+                },
+                {
+                    "online": 27,
+                    "time": 1677150662
+                },
+                {
+                    "online": 30,
+                    "time": 1677154322
+                },
+                {
+                    "online": 22,
+                    "time": 1677157982
+                },
+                {
+                    "online": 25,
+                    "time": 1677161642
+                },
+                {
+                    "online": 26,
+                    "time": 1677165302
+                },
+                {
+                    "online": 35,
+                    "time": 1677168962
+                },
+                {
+                    "online": 44,
+                    "time": 1677172622
+                },
+                {
+                    "online": 34,
+                    "time": 1677176282
+                },
+                {
+                    "online": 34,
+                    "time": 1677179942
+                },
+                {
+                    "online": 32,
+                    "time": 1677183602
+                },
+                {
+                    "online": 18,
+                    "time": 1677187262
+                },
+                {
+                    "online": 10,
+                    "time": 1677190922
+                }
+            ]
+        },
+        {
+            "number": 1,
+            "name": "Emerald",
+            "ip": "51.83.207.240",
+            "port": 7777,
+            "online": 12,
+            "maxplayers": 1000,
+            "password": false,
+            "vk": "https://vk.com/diamond_rp",
+            "tg": "https://t.me/officialdiamondrp",
+            "inst": "https://instagram.com",
+            "icon": "https://arizona-recovery.react.domains/desktop/resources/icons/diamond/emerald.png",
+            "plotPoints": [
+                {
+                    "online": 0,
+                    "time": 1677117782
+                },
+                {
+                    "online": 6,
+                    "time": 1677121442
+                },
+                {
+                    "online": 11,
+                    "time": 1677125102
+                },
+                {
+                    "online": 11,
+                    "time": 1677128762
+                },
+                {
+                    "online": 10,
+                    "time": 1677132422
+                },
+                {
+                    "online": 13,
+                    "time": 1677136082
+                },
+                {
+                    "online": 17,
+                    "time": 1677139742
+                },
+                {
+                    "online": 27,
+                    "time": 1677143402
+                },
+                {
+                    "online": 31,
+                    "time": 1677147061
+                },
+                {
+                    "online": 27,
+                    "time": 1677150662
+                },
+                {
+                    "online": 36,
+                    "time": 1677154322
+                },
+                {
+                    "online": 32,
+                    "time": 1677157982
+                },
+                {
+                    "online": 27,
+                    "time": 1677161642
+                },
+                {
+                    "online": 24,
+                    "time": 1677165302
+                },
+                {
+                    "online": 32,
+                    "time": 1677168962
+                },
+                {
+                    "online": 18,
+                    "time": 1677172622
+                },
+                {
+                    "online": 17,
+                    "time": 1677176282
+                },
+                {
+                    "online": 16,
+                    "time": 1677179942
+                },
+                {
+                    "online": 17,
+                    "time": 1677183602
+                },
+                {
+                    "online": 17,
+                    "time": 1677187262
+                },
+                {
+                    "online": 12,
+                    "time": 1677190922
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "name": "Ruby",
+            "ip": "51.83.207.243",
+            "port": 7777,
+            "online": 31,
+            "maxplayers": 1000,
+            "password": false,
+            "vk": "https://vk.com/diamond_rp",
+            "tg": "https://t.me/officialdiamondrp",
+            "inst": "https://instagram.com",
+            "icon": "https://arizona-recovery.react.domains/desktop/resources/icons/diamond/ruby.png",
+            "plotPoints": [
+                {
+                    "online": 0,
+                    "time": 1677117782
+                },
+                {
+                    "online": 8,
+                    "time": 1677121442
+                },
+                {
+                    "online": 9,
+                    "time": 1677125102
+                },
+                {
+                    "online": 14,
+                    "time": 1677128762
+                },
+                {
+                    "online": 32,
+                    "time": 1677132422
+                },
+                {
+                    "online": 48,
+                    "time": 1677136082
+                },
+                {
+                    "online": 62,
+                    "time": 1677139742
+                },
+                {
+                    "online": 64,
+                    "time": 1677143402
+                },
+                {
+                    "online": 77,
+                    "time": 1677147061
+                },
+                {
+                    "online": 83,
+                    "time": 1677150662
+                },
+                {
+                    "online": 77,
+                    "time": 1677154322
+                },
+                {
+                    "online": 81,
+                    "time": 1677157982
+                },
+                {
+                    "online": 93,
+                    "time": 1677161642
+                },
+                {
+                    "online": 96,
+                    "time": 1677165302
+                },
+                {
+                    "online": 103,
+                    "time": 1677168962
+                },
+                {
+                    "online": 115,
+                    "time": 1677172622
+                },
+                {
+                    "online": 109,
+                    "time": 1677176282
+                },
+                {
+                    "online": 111,
+                    "time": 1677179942
+                },
+                {
+                    "online": 86,
+                    "time": 1677183602
+                },
+                {
+                    "online": 82,
+                    "time": 1677187262
+                },
+                {
+                    "online": 47,
+                    "time": 1677190922
+                }
+            ]
+        }
+    ]
